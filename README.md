@@ -1,0 +1,2 @@
+# TopCardWins
+Details before running
